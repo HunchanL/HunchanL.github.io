@@ -4,7 +4,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 # Research
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 15px;">
-    <img src="path_to_your_image.jpg" alt="Description" width="150">
+    <img src="/images/nature_comm.jpg" alt="Description" width="150">
   </div>
   <div>
     <p>Your text goes here. This text will appear next to the image in supported Markdown viewers.</p>

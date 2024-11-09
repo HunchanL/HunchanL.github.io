@@ -8,7 +8,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
     <img src="/images/nature_communications.jpg" alt="A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots" width="300">
   </div>
   <div>
-    <p style="margin: 0; line-height: 1;"><strong>A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots</strong><br>
+    <p style="margin: 0; line-height: 1;"><strong>A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots</strong>
     <p style="margin: 0; line-height: 1;"><strong>Hun Chan Lee</strong>, Nash Elder, Matthew Leal, Sarah Stantial, Elenis Vergara Martinez, Sneha Jos, Hyunje Cho, Sheila Russo</p>
     <p style="margin: 0; line-height: 1;"><i>Nature Communications</i><u style="text-decoration: blue underline "><a href="https://www.nature.com/articles/s41467-024-51137-8">[Paper]</a></u></p>
   </div>

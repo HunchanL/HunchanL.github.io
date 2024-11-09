@@ -5,7 +5,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/nature_communications.jpg" alt="A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots" height="350">
+    <img src="/images/nature_communications.jpg" alt="A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots" width="350">
   </div>
   <div>
     <p style="margin: 0; line-height: 1;"><strong>A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots</strong></p>
@@ -16,7 +16,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/nature_communications.jpg" alt="Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor" height="350">
+    <img src="/images/ICRA_origami" alt="Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor" width="350">
   </div>
   <div>
     <p style="margin: 0; line-height: 1;"><strong>Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor</strong></p>
@@ -27,7 +27,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" height="350">
+    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" width="350">
   </div>
   <div>
     <p style="margin: 0; line-height: 1;"><strong>When the End Effector Is a Laser: A Review of Robotics in Laser Surgery</strong></p>
@@ -38,7 +38,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/Journal of biophotonics_PTG.png" alt="A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo" height="350">
+    <img src="/images/Journal of biophotonics_PTG.png" alt="A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo" width="350">
   </div>
   <div>
     <p style="margin: 0; line-height: 1;"><strong>A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo</strong></p>

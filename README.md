@@ -16,7 +16,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/ICRA_origami" alt="Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor" width="350">
+    <img src="/images/ICRA_origami.png" alt="Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor" width="350">
   </div>
   <div>
     <p style="margin: 0; line-height: 1;"><strong>Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor</strong></p>

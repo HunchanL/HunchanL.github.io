@@ -7,7 +7,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
     <img src="/images/nature_communications.jpg" alt="A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots" width="150">
   </div>
   <div>
-    <p>Your text goes here. This text will appear next to the image in supported Markdown viewers.</p>
+    <p>**A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots**. This text will appear next to the image in supported Markdown viewers.</p>
   </div>
 </div>
 A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots

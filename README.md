@@ -72,7 +72,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/JMD_underactuated hand.png" alt="Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand" style="height: auto; width: 400px;">
+    <img src="/images/JMD_underactuated hand.png" alt="Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand" style="height: auto; width: 350px;">
   </div>
   <div align="justify">
     <p style="margin: 0; line-height: 1.1;"><strong>Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand</strong></p>

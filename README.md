@@ -47,7 +47,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
   </div>
   <div>
     <p style="margin: 0; line-height: 1.1;"><strong>A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo</strong></p>
-    <p style="margin: 0; line-height: 1.3;">Yoseph Kim*, <strong>Hun Chan Lee*</strong>, Jongchan Kim, Eugene Oh, Jennifer Yoo, Bo Ning, Seung Yup Lee, Khalid Mohamed Ali, Ralph Tufano,
+    <p style="margin: 0; line-height: 1.3;">Yoseph Kim*, <strong>Hun Chan Lee*</strong>, Jongchan Kim*, Eugene Oh, Jennifer Yoo, Bo Ning, Seung Yup Lee, Khalid Mohamed Ali, Ralph Tufano,
     Jonathon Russell, Jaepyeong Cha <i>(*equally contributed)</i></p>
     <p style="margin: 0; line-height: 1;"><i>Journal of Biophotonics, 2022 | </i><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202200008">[Paper]</a></u></p>
     <p></p>
@@ -61,7 +61,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
   </div>
   <div>
     <p style="margin: 0; line-height: 1.1;"><strong>A pilot feasibility study to assess vascularity and perfusion ofparathyroid glands using a portable hand‐held imager</strong></p>
-    <p style="margin: 0; line-height: 1.3;">Eugene Oh, <strong>Hun Chan Lee*</strong>, Yoseph Kim, Bo Ning, Seung Yup Lee, Jaepyeong Cha, Wan Wook Kim </p>
+    <p style="margin: 0; line-height: 1.3;">Eugene Oh, <strong>Hun Chan Lee</strong>, Yoseph Kim, Bo Ning, Seung Yup Lee, Jaepyeong Cha, Wan Wook Kim </p>
     <p style="margin: 0; line-height: 1;"><i>Lasers in Surgery and Medicine, 2021 | </i><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/lsm.23478">[Paper]</a></u></p>
     <p></p>
   </div>
@@ -74,7 +74,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
   </div>
   <div>
     <p style="margin: 0; line-height: 1.1;"><strong>Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand</strong></p>
-    <p style="margin: 0; line-height: 1.3;"><strong>Hun Chan Lee*</strong>, Raymond Cipra </p>
+    <p style="margin: 0; line-height: 1.3;"><strong>Hun Chan Lee</strong>, Raymond Cipra </p>
     <p style="margin: 0; line-height: 1;"><i>Journal of Medical Devices, 2020 | </i><u style="text-decoration: blue underline "><a href="https://asmedigitalcollection.asme.org/medicaldevices/article-abstract/14/1/011101/1072310/Design-of-a-Novel-Locking-Ratcheting-Mechanism-for">[Paper]</a></u></p>
     <p></p>
   </div>

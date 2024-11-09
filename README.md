@@ -8,7 +8,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
     <img src="/images/nature_communications.jpg" alt="A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots" width="300">
   </div>
   <div>
-    <p style="margin: 0; line-height: 1;"><strong>A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots</strong>
+    <p style="margin: 0; line-height: 1;"><strong>A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots</strong></p>
     <p style="margin: 0; line-height: 1;"><strong>Hun Chan Lee</strong>, Nash Elder, Matthew Leal, Sarah Stantial, Elenis Vergara Martinez, Sneha Jos, Hyunje Cho, Sheila Russo</p>
     <p style="margin: 0; line-height: 1;"><i>Nature Communications</i><u style="text-decoration: blue underline "><a href="https://www.nature.com/articles/s41467-024-51137-8">[Paper]</a></u></p>
   </div>
@@ -19,7 +19,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
     <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" width="300">
   </div>
   <div>
-    <p style="margin: 0; line-height: 1;"><strong>When the End Effector Is a Laser: A Review of Robotics in Laser Surgery</strong>
+    <p style="margin: 0; line-height: 1;"><strong>When the End Effector Is a Laser: A Review of Robotics in Laser Surgery</strong></p>
     <p style="margin: 0; line-height: 1;"><strong>Hun Chan Lee</strong>, Nicholas Pacheco, Loris Fichera, Sheila Russo</p>
     <p style="margin: 0; line-height: 1;"><i>Advanced Instelligent Systems</i><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200130">[Paper]</a></u></p>
   </div>

@@ -45,7 +45,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/Journal of biophotonics_PTG.png" alt="A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo" style="height: auto; width: 600px;">
+    <img src="/images/Journal of biophotonics_PTG.png" alt="A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo" style="height: auto; width: 640px;">
   </div>
   <div align="justify">
     <p style="margin: 0; line-height: 1.1;"><strong>A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo</strong></p>
@@ -59,7 +59,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/LSM_LSCI.png" alt="A pilot feasibility study to assess vascularity and perfusion ofparathyroid glands using a portable hand‐held imager" style="height: auto; width: 400px;">
+    <img src="/images/LSM_LSCI.png" alt="A pilot feasibility study to assess vascularity and perfusion ofparathyroid glands using a portable hand‐held imager" style="height: auto; width: 420px;">
   </div>
   <div align="justify">
     <p style="margin: 0; line-height: 1.1;"><strong>A pilot feasibility study to assess vascularity and perfusion ofparathyroid glands using a portable hand‐held imager</strong></p>
@@ -72,7 +72,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/JMD_underactuated hand.png" alt="Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand" style="height: auto; width: 300px;">
+    <img src="/images/JMD_underactuated hand.png" alt="Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand" style="height: auto; width: 400px;">
   </div>
   <div align="justify">
     <p style="margin: 0; line-height: 1.1;"><strong>Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand</strong></p>

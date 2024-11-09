@@ -16,7 +16,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/ICRA_origami.png" alt="Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor" style="height: auto; width: 400px;">
+    <img src="/images/ICRA_origami.png" alt="Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor" style="height: auto; width: 350px;">
   </div>
   <div>
     <p style="margin: 0; line-height: 1;"><strong>Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor</strong></p>
@@ -28,7 +28,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="height: auto; width: 200px;">
+    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="height: auto; width: 250px;">
   </div>
   <div>
     <p style="margin: 0; line-height: 1;"><strong>When the End Effector Is a Laser: A Review of Robotics in Laser Surgery</strong></p>

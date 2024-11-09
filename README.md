@@ -58,3 +58,15 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
     <p style="margin: 0; line-height: 1;"><i>Lasers in Surgery and Medicine, 2021 | </i><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/lsm.23478">[Paper]</a></u></p>
   </div>
 </div>
+
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 10px;">
+    <img src="/images/JMD_underactuated hand.png" alt="Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand" width="350">
+  </div>
+  <div>
+    <p style="margin: 0; line-height: 1;"><strong>Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand</strong></p>
+    <p style="margin: 0; line-height: 1.2;"><strong>Hun Chan Lee*</strong>, Raymond Cipra </p>
+    <p style="margin: 0; line-height: 1;"><i>Lasers in Surgery and Medicine, 2021 | </i><u style="text-decoration: blue underline "><a href="https://asmedigitalcollection.asme.org/medicaldevices/article-abstract/14/1/011101/1072310/Design-of-a-Novel-Locking-Ratcheting-Mechanism-for">[Paper]</a></u></p>
+  </div>
+</div>
+

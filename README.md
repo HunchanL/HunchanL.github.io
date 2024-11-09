@@ -75,5 +75,9 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 </div>
 
 # Honors and Awards
+•	Distinguished Mechanical Engineering Fellowship (2021)
+•	Dean’s List & Semester Honor (2012-2016)
+•	EPICS AMD Design Award (2014)
+•	School of Mechanical Engineering Scholarship (2013)
 
 

@@ -20,7 +20,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
   <div>
     <p style="margin: 0; line-height: 0.8;"><strong>When the End Effector Is a Laser: A Review of Robotics in Laser Surgery</strong>
     <p style="margin: 0; line-height: 0.8;"><strong>Hun Chan Lee</strong>, Nicholas Pacheco, Loris Fichera, Sheila Russo</p>
-    <p style="margin: 0; line-height: 0.8;"><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200130">[Paper]</a></u></p>
+    <p style="margin: 0; line-height: 0.8;"><i>Advanced Instelligent Systems</i><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200130">[Paper]</a></u></p>
   </div>
 </div>
 

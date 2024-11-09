@@ -28,7 +28,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="height: auto; width: 400px;">
+    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="height: auto; width: 200px;">
   </div>
   <div>
     <p style="margin: 0; line-height: 1;"><strong>When the End Effector Is a Laser: A Review of Robotics in Laser Surgery</strong></p>
@@ -40,7 +40,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/Journal of biophotonics_PTG.png" alt="A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo" style="height: auto; width: 400px;">
+    <img src="/images/Journal of biophotonics_PTG.png" alt="A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo" style="height: auto; width: 600px;">
   </div>
   <div>
     <p style="margin: 0; line-height: 1;"><strong>A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo</strong></p>
@@ -65,7 +65,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/JMD_underactuated hand.png" alt="Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand" style="height: auto; width: 400px;">
+    <img src="/images/JMD_underactuated hand.png" alt="Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand" style="height: auto; width: 300px;">
   </div>
   <div>
     <p style="margin: 0; line-height: 1;"><strong>Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand</strong></p>

@@ -44,6 +44,6 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
     <p style="margin: 0; line-height: 1;"><strong>A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo</strong></p>
     <p style="margin: 0; line-height: 1;">Yoseph Kim*, <strong>Hun Chan Lee*</strong>, Jongchan Kim, Eugene Oh, Jennifer Yoo, Bo Ning, Seung Yup Lee, Khalid Mohamed Ali, Ralph Tufano,
     Jonathon Russell, Jaepyeong Cha <i>(*equally contributed)</i></p>
-    <p style="margin: 0; line-height: 1;"><i>Journal of Biophotonics, 2022 | </i><u style="text-decoration: blue underline "><a href="[https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200130](https://onlinelibrary-wiley-com.ezproxy.bu.edu/doi/full/10.1002/jbio.202200008)">[Paper]</a></u></p>
+    <p style="margin: 0; line-height: 1;"><i>Journal of Biophotonics, 2022 | </i><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202200008">[Paper]</a></u></p>
   </div>
 </div>

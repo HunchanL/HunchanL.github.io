@@ -38,7 +38,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
   <div align="justify">
     <p style="margin: 0; line-height: 1.1;"><strong>When the End Effector Is a Laser: A Review of Robotics in Laser Surgery</strong></p>
     <p style="margin: 0; line-height: 1.3;"><strong>Hun Chan Lee</strong>, Nicholas Pacheco, Loris Fichera, Sheila Russo</p>
-    <p style="margin: 0; line-height: 1;"><i>Advanced Instelligent Systems, 2022 | </i><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200130">[Paper]</a></u></p>
+    <p style="margin: 0; line-height: 1;"><i>Advanced Intelligent Systems, 2022 | </i><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200130">[Paper]</a></u></p>
     <p></p>
   </div>
 </div>
@@ -46,10 +46,10 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/Journal of biophotonics_PTG.png" alt="A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo" style="height: auto; width: 640px;">
+    <img src="/images/Journal of biophotonics_PTG.png" alt="A coaxial excitation, dual-red-green-blue/near-infrared paired imaging system toward computer-aided detection of parathyroid glands in situ and ex vivo" style="height: auto; width: 640px;">
   </div>
   <div align="justify">
-    <p style="margin: 0; line-height: 1.1;"><strong>A coaxial excitation, dual-red-green-blue/near-infraredpaired imaging system toward computer-aided detectionof parathyroid glands in situ and ex vivo</strong></p>
+    <p style="margin: 0; line-height: 1.1;"><strong>A coaxial excitation, dual-red-green-blue/near-infrared paired imaging system toward computer-aided detection of parathyroid glands in situ and ex vivo</strong></p>
     <p style="margin: 0; line-height: 1.3;">Yoseph Kim*, <strong>Hun Chan Lee*</strong>, Jongchan Kim*, Eugene Oh, Jennifer Yoo, Bo Ning, Seung Yup Lee, Khalid Mohamed Ali, Ralph Tufano,
     Jonathon Russell, Jaepyeong Cha <i>(*equally contributed)</i></p>
     <p style="margin: 0; line-height: 1;"><i>Journal of Biophotonics, 2022 | </i><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202200008">[Paper]</a></u></p>
@@ -60,10 +60,10 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/LSM_LSCI.png" alt="A pilot feasibility study to assess vascularity and perfusion ofparathyroid glands using a portable hand‐held imager" style="height: auto; width: 420px;">
+    <img src="/images/LSM_LSCI.png" alt="A pilot feasibility study to assess vascularity and perfusion of parathyroid glands using a portable hand‐held imager" style="height: auto; width: 420px;">
   </div>
   <div align="justify">
-    <p style="margin: 0; line-height: 1.1;"><strong>A pilot feasibility study to assess vascularity and perfusion ofparathyroid glands using a portable hand‐held imager</strong></p>
+    <p style="margin: 0; line-height: 1.1;"><strong>A pilot feasibility study to assess vascularity and perfusion of parathyroid glands using a portable hand‐held imager</strong></p>
     <p style="margin: 0; line-height: 1.3;">Eugene Oh, <strong>Hun Chan Lee</strong>, Yoseph Kim, Bo Ning, Seung Yup Lee, Jaepyeong Cha, Wan Wook Kim </p>
     <p style="margin: 0; line-height: 1;"><i>Lasers in Surgery and Medicine, 2021 | </i><u style="text-decoration: blue underline "><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/lsm.23478">[Paper]</a></u></p>
     <p></p>

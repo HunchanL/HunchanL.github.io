@@ -12,16 +12,24 @@
     <![endif]-->
     {% include head-custom.html %}
         <!-- Custom styles to increase the column widths -->
-    <style>
+   <style>
       .wrapper {
-        max-width: 1200px; /* Increase the maximum width to 1200px */
-        width: 90%; /* Ensure it takes up 90% of the viewport width */
-        margin: 0 auto; /* Center the wrapper */
+        max-width: 1400px; /* Increased max width for larger columns */
+        width: 95%;
+        margin: 0 auto; /* Center align */
       }
-      header, section, footer {
-        max-width: 1200px; /* Ensure sections match the wrapper width */
-        margin: 0 auto; /* Center align individual sections */
-        padding: 0 20px; /* Add padding for better spacing */
+
+      .columns {
+        display: flex; /* Enable flex layout for columns */
+        gap: 20px; /* Space between columns */
+      }
+
+      .column {
+        flex: 1; /* Default equal width for columns */
+      }
+
+      .column.second {
+        flex: 2; /* Increase the width of the second column */
       }
     </style>
   </head>

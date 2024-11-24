@@ -29,7 +29,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 </div>
 <div align="justify">
   <div style="margin-right: 10px;">
-    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="height: auto; width: 250px;">
+    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="height: auto; width: 250px;align-items: center;">
   </div>
 Lasers have become an essential tool in many surgical applications due to their ability to selectively ablate tissue based on light absorption which varies with laser wavelength. This selectivity can minimize damage to healthy tissue, shorten recovery time, and reduce the risk of postoperative complications. To further enhance laser surgery techniques, robotic technology can improve the precision of laser targeting by enabling automatic closed-loop control. Among the robotic technologies applicable to these medical procedures, soft robotics stands out for its inherent compliance, flexibility, and robustness, making it ideal for delicate surgical environments. However, while soft robots excel in adaptability, they often face limitations in controllability and precision. My research focuses on developing a laser-steering robot built upon a soft-rigid hybrid concept to address this. By merging the safety and adaptability of soft robotic technology with the structural stability and programmable precision of rigid components, this approach can enhance control, accuracy, and precision in laser-assisted surgeries.
 </div>

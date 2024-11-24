@@ -18,6 +18,18 @@
         width: 95%;
         margin: 0 auto; /* Center align */
       }
+          /* Default column style */
+      .column {
+        flex: 1; /* Default equal width for all columns */
+        background-color: #f4f4f4; /* Light gray background for visibility */
+        padding: 20px; /* Inner padding for content */
+        border: 1px solid #ddd; /* Optional: Add a border for clarity */
+      }
+
+      /* Larger second column */
+      .column.second {
+        flex: 10; /* Make the second column twice as wide as others */
+      }
     </style>
   </head>
   <body>

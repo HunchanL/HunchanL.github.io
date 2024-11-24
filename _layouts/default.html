@@ -14,22 +14,9 @@
         <!-- Custom styles to increase the column widths -->
    <style>
       .wrapper {
-        max-width: 1400px; /* Increased max width for larger columns */
+        max-width: 1200px; /* Increased max width for larger columns */
         width: 95%;
         margin: 0 auto; /* Center align */
-      }
-
-      .columns {
-        display: flex; /* Enable flex layout for columns */
-        gap: 10px; /* Space between columns */
-      }
-
-      .column {
-        flex: 1; /* Default equal width for columns */
-      }
-
-      .column.second {
-        flex: 4; /* Increase the width of the second column */
       }
     </style>
   </head>
@@ -65,13 +52,5 @@
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

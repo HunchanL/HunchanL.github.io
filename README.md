@@ -4,6 +4,15 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 </div>
 <p></p>
 
+# Research Interests
+<div style="text-align: justify; font-family: Arial, sans-serif; font-size: 20px;">
+  <p>Soft-Rigid Hybrid Robots.</p>
+</div>
+<div align="justify">
+Soft robots offer unique advantages for interacting with unstructured environments. Unlike rigid robots, they provide increased dexterity, flexibility, and resilience, making them well-suited for tasks requiring safe and adaptive interactions. However, soft robots face notable tradeoffs, particularly in actuation and sensing capabilities, including low output force, poor controllability, and limited sensing functionality. These challenges become even more pronounced as soft robots are scaled down to sizes smaller than a centimeter, where fabrication complexities further hinder their practicality. My research addresses these challenges by combining the strengths of soft and rigid robotics. The soft-rigid hybrid systems retain the safety and compliance inherent to soft robots while leveraging the controllability and programmable precision of rigid robots. While this approach combines the best of both worlds, current technologies lack the ability to fabricate actuators, sensors, and soft-rigid components in a single monolithic process. My research introduces an innovative fabrication strategy that overcomes this limitation through a layer-by-layer fabrication method that integrates actuation, sensing, and control into a unified soft-rigid hybrid robotic system. Actuation is achieved using soft, inflatable balloons. These balloons are seamlessly integrated with rigid-flexible origami structures, which mechanically program the actuator to perform diverse motions. Additionally, conductive electrodes embedded within the same layered structure serve as a proprioceptive ionic sensor, utilizing an ionic solution as the working fluid to achieve precise sensing capabilities.
+</div>
+
+
 # Selected Publications
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">

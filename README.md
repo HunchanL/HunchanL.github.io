@@ -1,5 +1,5 @@
 # About Me
-<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div align="justify">
 I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised by Prof. <a href="https://www.bu.edu/eng/profile/sheila-russo-phd/">Sheila Russo</a>. My research focuses on the design, fabrication, and control of soft robots for medical applications. Previously, I worked as a researcher at the medical device startup inTheSmart Co., Ltd. in South Korea for 3 years, where I contributed to the development of advanced medical imaging systems. I received both a Master's and Bachelor's degree in Mechanical Engineering from Purdue University, where I worked with Prof. <a href="https://engineering.purdue.edu/ME/People/ptProfile?resource_id=23824">Raymond Cipra</a>.
 </div>
@@ -7,7 +7,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 <p></p>
 
 # Research Interests
-<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="text-align: justify; font-family: Arial, sans-serif; font-size: 20px;">
   <p><strong>Soft-Rigid Hybrid Robots</strong></p>
 </div>
@@ -18,7 +18,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 
 
 # Selected Publications
-<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/nature_communications.jpg" alt="A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots" style="height: auto; width: 400px;">
@@ -32,7 +32,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 </div>
 </div>
 
-<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/ICRA_origami.png" alt="Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor" style="height: auto; width: 350px;">
@@ -46,7 +46,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 </div>
 </div>
 
-<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="height: auto; width: 250px;">
@@ -60,7 +60,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 </div>
 </div>
 
-<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/Journal of biophotonics_PTG.png" alt="A coaxial excitation, dual-red-green-blue/near-infrared paired imaging system toward computer-aided detection of parathyroid glands in situ and ex vivo" style="height: auto; width: 640px;">
@@ -75,7 +75,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 </div>
 </div>
 
-<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/LSM_LSCI.png" alt="A pilot feasibility study to assess vascularity and perfusion of parathyroid glands using a portable hand‐held imager" style="height: auto; width: 420px;">
@@ -89,7 +89,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 </div>
 </div>
 
-<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/JMD_underactuated hand.png" alt="Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand" style="height: auto; width: 330px;">
@@ -105,7 +105,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 <p></p>
 
 # Honors and Awards
-<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <p>•	Distinguished Mechanical Engineering Fellowship (2021)</p>
 <p>•	Dean’s List & Semester Honor (2012-2016)</p>
 <p>•	EPICS AMD Design Award (2014)</p>

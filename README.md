@@ -37,7 +37,7 @@ Lasers have become an essential tool in many surgical applications due to their 
 
 <div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="text-align: justify; font-family: Arial, sans-serif; font-size: 20px;">
-  <p><strong>Minimally invasive surgical imaging systems</strong></p>
+  <p><strong>Next Generation Intraoperative Imaging Systems</strong></p>
 </div>
 Imaging systems serve as the eyes of surgeons during minimally invasive surgeries, providing real-time visuals to guide precise interventions. However, these systems often fall short in delivering comprehensive information, leaving surgeons with critical unknowns that cannot be resolved through images alone. To address these limitations, my research at inTheSmart Co., Ltd. focused on augmenting the information available during surgeries by developing novel imaging systems. These innovations include a laser speckle contrast imaging system, a dye-free, real-time blood flow imager that uses laser speckles to visualize tissue perfusion and vascular structures, and a fluorescent laparoscopy system, which combines white light and near-infrared (NIR) imaging cameras to highlight potential cancer pathways, vessels, and other critical anatomical features. Together, these systems aim to provide surgeons with context-rich visualization—acting as a form of visual guidance akin to the overlays in backup cameras for cars, allowing for greater precision and confidence during minimally invasive surgeries.
 <div align="justify">

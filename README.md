@@ -13,8 +13,8 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
   <p><strong>Soft-Rigid Hybrid Robots</strong></p>
 </div>
 
-<div align="justify">
-  <video controls width="800" height="450">
+<div align="justify" style="display: flex; justify-content: center; align-items: center; height: auto;">
+  <video controls width="640" height="360">
     <source src="/videos/Promotion_Video.mp4" type="video/mp4">
   </video>
   <p></p>

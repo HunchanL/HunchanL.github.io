@@ -4,7 +4,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 </div>
 <p></p>
 
-# Research
+# Selected Publications
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/nature_communications.jpg" alt="A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots" style="height: auto; width: 400px;">

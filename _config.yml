@@ -2,5 +2,8 @@ title: Hun Chan Lee
 logo: /images/headshot.png
 google_scholar: "https://scholar.google.com/citations?user=LKxlknMAAAAJ&hl=en&oi=ao"
 linkedin: "https://www.linkedin.com/in/hun-chan-lee-4b44288a"
+new_page:
+  title: "Research"
+  url: "/Research/"
 cv_link: /docs/Hunchanlee_CV.pdf
 theme: jekyll-theme-minimal

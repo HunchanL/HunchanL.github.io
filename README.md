@@ -11,9 +11,10 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 <div style="text-align: justify; font-family: Arial, sans-serif; font-size: 20px;">
   <p><strong>Soft-Rigid Hybrid Robots</strong></p>
 </div>
+
 <div align="justify">
   <video controls>
-    <source src="/videos/Promotion_Video.mp4" type="video/mp4">
+    <source src="https://github.com/user-attachments/assets/d343a61b-34b7-4c87-b3a3-90d80739c3e6" type="video/mp4">
   </video>
 Unlike rigid robots, soft robots provide increased dexterity, flexibility, and resilience, making them well-suited for tasks requiring safe and adaptive interactions. However, soft robots face notable tradeoffs, particularly in actuation and sensing capabilities, including low output force, poor controllability, and limited sensing functionality. These challenges become even more pronounced as soft robots are scaled down to sizes smaller than a centimeter, where fabrication complexities further hinder their practicality. My research focuses on bridging the gap between soft and rigid robotics, combining the safety and compliance of soft robots with the controllability and programmable precision of rigid systems. A key aspect of this work is the development of an innovative layer-by-layer fabrication strategy. This method seamlessly integrates actuation, sensing, and control into a unified soft-rigid hybrid robotic system, paving the way for more versatile and functional robots at smaller scales.
 </div>

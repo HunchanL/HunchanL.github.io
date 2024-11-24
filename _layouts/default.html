@@ -11,6 +11,19 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+        <!-- Custom styles to increase the column widths -->
+    <style>
+      .wrapper {
+        max-width: 1200px; /* Increase the maximum width to 1200px */
+        width: 90%; /* Ensure it takes up 90% of the viewport width */
+        margin: 0 auto; /* Center the wrapper */
+      }
+      header, section, footer {
+        max-width: 1200px; /* Ensure sections match the wrapper width */
+        margin: 0 auto; /* Center align individual sections */
+        padding: 0 20px; /* Add padding for better spacing */
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">

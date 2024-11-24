@@ -1,3 +1,4 @@
+<div class="wrapper" style="max-width: 2000px; margin: 0 auto; padding: 20px;">
 # About Me
 <div align="justify">
 I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised by Prof. <a href="https://www.bu.edu/eng/profile/sheila-russo-phd/">Sheila Russo</a>. My research focuses on the design, fabrication, and control of soft robots for medical applications. Previously, I worked as a researcher at the medical device startup inTheSmart Co., Ltd. in South Korea for 3 years, where I contributed to the development of advanced medical imaging systems. I received both a Master's and Bachelor's degree in Mechanical Engineering from Purdue University, where I worked with Prof. <a href="https://engineering.purdue.edu/ME/People/ptProfile?resource_id=23824">Raymond Cipra</a>.
@@ -99,4 +100,4 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 <p>•	EPICS AMD Design Award (2014)</p>
 <p>•	School of Mechanical Engineering Scholarship (2013)</p>
 
-
+</div>

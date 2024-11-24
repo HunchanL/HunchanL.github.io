@@ -15,6 +15,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 Unlike rigid robots, soft robots provide increased dexterity, flexibility, and resilience, making them well-suited for tasks requiring safe and adaptive interactions. However, soft robots face notable tradeoffs, particularly in actuation and sensing capabilities, including low output force, poor controllability, and limited sensing functionality. These challenges become even more pronounced as soft robots are scaled down to sizes smaller than a centimeter, where fabrication complexities further hinder their practicality. My research focuses on bridging the gap between soft and rigid robotics, combining the safety and compliance of soft robots with the controllability and programmable precision of rigid systems. A key aspect of this work is the development of an innovative layer-by-layer fabrication strategy. This method seamlessly integrates actuation, sensing, and control into a unified soft-rigid hybrid robotic system, paving the way for more versatile and functional robots at smaller scales.
 </div>
 </div>
+<p></p>
 
 <div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="text-align: justify; font-family: Arial, sans-serif; font-size: 20px;">
@@ -27,6 +28,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 Lasers have become an essential tool in many surgical applications due to their ability to selectively ablate tissue based on light absorption which varies with laser wavelength. This selectivity can minimize damage to healthy tissue, shorten recovery time, and reduce the risk of postoperative complications. To further enhance laser surgery techniques, robotic technology can improve the precision of laser targeting by enabling automatic closed-loop control. Among the robotic technologies applicable to these medical procedures, soft robotics stands out for its inherent compliance, flexibility, and robustness, making it ideal for delicate surgical environments. However, while soft robots excel in adaptability, they often face limitations in controllability and precision. My research focuses on developing a laser-steering robot built upon a soft-rigid hybrid concept to address this. By merging the safety and adaptability of soft robotic technology with the structural stability and programmable precision of rigid components, this approach can enhance control, accuracy, and precision in laser-assisted surgeries.
 </div>
 </div>
+<p></p>
 
 <div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="text-align: justify; font-family: Arial, sans-serif; font-size: 20px;">
@@ -36,7 +38,7 @@ Imaging systems serve as the eyes of surgeons during minimally invasive surgerie
 <div align="justify">
 </div>
 </div>
-
+<p></p>
 
 # Selected Publications
 <div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">

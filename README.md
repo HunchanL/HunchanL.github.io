@@ -1,20 +1,24 @@
-<div class="wrapper" style="max-width: 2000px; margin: 0 auto; padding: 20px;">
 # About Me
+<div class="wrapper" style="max-width: 1300px; margin: 0 auto; padding: 20px;">
 <div align="justify">
 I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised by Prof. <a href="https://www.bu.edu/eng/profile/sheila-russo-phd/">Sheila Russo</a>. My research focuses on the design, fabrication, and control of soft robots for medical applications. Previously, I worked as a researcher at the medical device startup inTheSmart Co., Ltd. in South Korea for 3 years, where I contributed to the development of advanced medical imaging systems. I received both a Master's and Bachelor's degree in Mechanical Engineering from Purdue University, where I worked with Prof. <a href="https://engineering.purdue.edu/ME/People/ptProfile?resource_id=23824">Raymond Cipra</a>.
+</div>
 </div>
 <p></p>
 
 # Research Interests
+<div class="wrapper" style="max-width: 1300px; margin: 0 auto; padding: 20px;">
 <div style="text-align: justify; font-family: Arial, sans-serif; font-size: 20px;">
   <p><strong>Soft-Rigid Hybrid Robots</strong></p>
 </div>
 <div align="justify">
 Unlike rigid robots, soft robots provide increased dexterity, flexibility, and resilience, making them well-suited for tasks requiring safe and adaptive interactions. However, soft robots face notable tradeoffs, particularly in actuation and sensing capabilities, including low output force, poor controllability, and limited sensing functionality. These challenges become even more pronounced as soft robots are scaled down to sizes smaller than a centimeter, where fabrication complexities further hinder their practicality. My research focuses on addressing these challenges by developing soft-rigid hybrid systems and advanced fabrication techniques. These systems retain the safety and compliance inherent to soft robots while harnessing the controllability and programmable precision of rigid robots. Despite their promise, current technologies fall short in integrating actuators, sensors, and soft-rigid components into a single monolithic process.To overcome this limitation, my research introduces an innovative layer-by-layer fabrication strategy. This method seamlessly integrates actuation, sensing, and control into a unified soft-rigid hybrid robotic system, enabling more versatile and functional robotics at small scales.
 </div>
+</div>
 
 
 # Selected Publications
+<div class="wrapper" style="max-width: 1300px; margin: 0 auto; padding: 20px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/nature_communications.jpg" alt="A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots" style="height: auto; width: 400px;">
@@ -26,8 +30,9 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
     <p></p>
   </div>
 </div>
+</div>
 
-
+<div class="wrapper" style="max-width: 1300px; margin: 0 auto; padding: 20px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/ICRA_origami.png" alt="Capacitive Origami Sensing Modules for Measuring Force in a Neurosurgical, Soft Robotic Retractor" style="height: auto; width: 350px;">
@@ -39,8 +44,9 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
     <p></p>
   </div>
 </div>
+</div>
 
-
+<div class="wrapper" style="max-width: 1300px; margin: 0 auto; padding: 20px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="height: auto; width: 250px;">
@@ -52,8 +58,9 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
     <p></p>
   </div>
 </div>
+</div>
 
-
+<div class="wrapper" style="max-width: 1300px; margin: 0 auto; padding: 20px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/Journal of biophotonics_PTG.png" alt="A coaxial excitation, dual-red-green-blue/near-infrared paired imaging system toward computer-aided detection of parathyroid glands in situ and ex vivo" style="height: auto; width: 640px;">
@@ -66,8 +73,9 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
     <p></p>
   </div>
 </div>
+</div>
 
-
+<div class="wrapper" style="max-width: 1300px; margin: 0 auto; padding: 20px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/LSM_LSCI.png" alt="A pilot feasibility study to assess vascularity and perfusion of parathyroid glands using a portable hand‐held imager" style="height: auto; width: 420px;">
@@ -79,8 +87,9 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
     <p></p>
   </div>
 </div>
+</div>
 
-
+<div class="wrapper" style="max-width: 1300px; margin: 0 auto; padding: 20px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
     <img src="/images/JMD_underactuated hand.png" alt="Design of a Novel Locking Ratcheting Mechanism for a Body-Powered Underactuated Hand" style="height: auto; width: 330px;">
@@ -92,12 +101,14 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
     <p></p>
   </div>
 </div>
+</div>
 <p></p>
 
 # Honors and Awards
+<div class="wrapper" style="max-width: 1300px; margin: 0 auto; padding: 20px;">
 <p>•	Distinguished Mechanical Engineering Fellowship (2021)</p>
 <p>•	Dean’s List & Semester Honor (2012-2016)</p>
 <p>•	EPICS AMD Design Award (2014)</p>
 <p>•	School of Mechanical Engineering Scholarship (2013)</p>
-
+</div>
 </div>

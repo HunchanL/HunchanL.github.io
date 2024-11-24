@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
 </div>
 <div align="justify">
   <div style="text-align: center;">
-  <video width="800" controls>
+  <video width="800px" controls>
     <source src="https://hunchanl.github.io/videos/Promotion Video_V2.mp4" type="video/mp4">
   </video>
 </div>

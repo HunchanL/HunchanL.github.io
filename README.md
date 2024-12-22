@@ -50,7 +50,7 @@ Lasers have become an essential tool in many surgical applications due to their 
 Imaging systems serve as the eyes of surgeons during minimally invasive surgeries, providing real-time visuals to guide precise interventions. However, these systems often fall short in delivering comprehensive information, leaving surgeons with critical unknowns. To address these limitations, <strong> my previous research focused on augmenting the information available during surgeries by leveraging NIR lasers and NIR imaging systems to provide insights beyond conventional imaging </strong>. A key outcome of this work was the development of two advanced imaging systems: <strong>a laser speckle contrast imaging system and a fluorescent laparoscopy system </strong>. The laser speckle contrast imaging system is a dye-free, real-time blood flow imager that uses laser speckles to visualize tissue perfusion and vascular structures. The fluorescent laparoscopy system combines white light and near-infrared (NIR) imaging cameras to highlight lymph nodes, vessels, and other critical anatomical features. Together, these systems aim to provide surgeons with context-rich visualization—acting as a form of visual guidance akin to the overlays in backup cameras for cars, allowing for greater precision and confidence during minimally invasive surgeries.<br>
 <div align="justify">
 <br>
-<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Coding (Python, OpenCV), Machine Learning (PyTorch), Fabrication (3D printing) 
+<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Coding (Python, OpenCV), Machine Learning (PyTorch - YOLO v5), Fabrication (3D printing) 
 </div>
 </div>
 <p></p>

@@ -57,7 +57,7 @@ Imaging systems serve as the eyes of surgeons during minimally invasive surgerie
 
 <div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="text-align: justify; font-family: Arial, sans-serif; font-size: 20px;">
-  <p><strong>Surgical Vision</strong></p>
+  <p><strong>3D Printed Prostethic Hand</strong></p>
 </div>
   <div style="margin: 0 auto; text-align: center; width: fit-content;">
     <img src="/images/prosthetic hand.png" alt="prosthetic hand" style="width: 60%; height: auto;">

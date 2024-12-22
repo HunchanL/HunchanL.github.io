@@ -19,7 +19,7 @@ I am a Ph.D. candidate in Mechanical Engineering at Boston University, advised b
   </video>
   <p></p>
 Unlike rigid robots, soft robots provide increased dexterity, flexibility, and resilience, making them well-suited for tasks requiring safe and adaptive interactions. However, soft robots face notable tradeoffs, particularly in actuation and sensing capabilities, including low output force, poor controllability, and limited sensing functionality. These challenges become even more pronounced as soft robots are scaled down to sizes smaller than a centimeter, where fabrication complexities further hinder their practicality. <strong> My research explores on bridging the gap between soft and rigid robotics, combining the safety and compliance of soft robots with the controllability and precision of rigid systems. A key aspect of this work is the development of an innovative layer-by-layer fabrication strategy. </strong> This method seamlessly integrates actuation, sensing, and control into a unified soft-rigid hybrid robotic system, paving the way for more versatile and functional robots at smaller scales. <br>
-
+<br>
 <strong>Applied Skills </strong>: 3D Modeling (Solidworks), Coding (Python, MATLAB), Circuit Design (Altium), Fabrication (laser microprocessing, 3D printing, plasma etching)  
 </div>
 </div>
@@ -34,7 +34,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
     <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="width: 30%; height: auto;">
   </div>
 Lasers have become an essential tool in many surgical applications due to their ability to selectively ablate tissue based on light absorption which varies with laser wavelength. This selectivity can minimize damage to healthy tissue, shorten recovery time, and reduce the risk of postoperative complications. To further enhance laser surgery techniques, robotic technology can improve the precision of laser targeting by enabling automatic closed-loop control. Among the robotic technologies applicable to these medical procedures, soft robotics stands out for its inherent compliance, flexibility, and robustness, making it ideal for delicate surgical environments. However, while soft robots excel in adaptability, they often face limitations in controllability and precision. <strong> My research focuses on developing a laser-steering robot built upon a soft-rigid hybrid concept to address this. By merging the safety and adaptability of soft robotic technology with the structural stability and programmable precision of rigid components, this approach can enhance control, accuracy, and precision in laser-assisted surgeries. </strong> <br>
-
+<br>
 <strong>Applied Skills </strong>: 3D Modeling (Solidworks), Coding (Python, MATLAB), Machine Learning (Tensorflow), Fabrication (laser microprocessing, plasma etching) 
 </div>
 </div>
@@ -49,7 +49,7 @@ Lasers have become an essential tool in many surgical applications due to their 
   </div>
 Imaging systems serve as the eyes of surgeons during minimally invasive surgeries, providing real-time visuals to guide precise interventions. However, these systems often fall short in delivering comprehensive information, leaving surgeons with critical unknowns. To address these limitations, <strong> my previous research focused on augmenting the information available during surgeries by leveraging NIR lasers and NIR imaging systems to provide insights beyond conventional imaging </strong>. A key outcome of this work was the development of two advanced imaging systems: <strong>a laser speckle contrast imaging system and a fluorescent laparoscopy system </strong>. The laser speckle contrast imaging system is a dye-free, real-time blood flow imager that uses laser speckles to visualize tissue perfusion and vascular structures. The fluorescent laparoscopy system combines white light and near-infrared (NIR) imaging cameras to highlight lymph nodes, vessels, and other critical anatomical features. Together, these systems aim to provide surgeons with context-rich visualization—acting as a form of visual guidance akin to the overlays in backup cameras for cars, allowing for greater precision and confidence during minimally invasive surgeries.<br>
 <div align="justify">
-
+<br>
 <strong>Applied Skills </strong>: 3D Modeling (Solidworks), Coding (Python, OpenCV), Machine Learning (PyTorch), Fabrication (3D printing) 
 </div>
 </div>

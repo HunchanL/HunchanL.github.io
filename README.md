@@ -65,7 +65,7 @@ Imaging systems serve as the eyes of surgeons during minimally invasive surgerie
 
 Body-powered prosthetic hands often have limited degrees of freedom and are typically constructed from rigid materials, making everyday object-grasping tasks challenging. Additionally, users often need to maintain awkward body positions to sustain a grasp. To address these limitations, <strong> my research focused on developing rigid-flexible fingers that provide the necessary compliance for grasping various objects and designing an innovative locking mechanism to secure finger positions without requiring uncomfortable postures. Furthermore, the project aimed to create an affordable prosthetic hand by leveraging cost-effective 3D printing technology.</strong><br>
 <div align="justify">
-
+<be>
 <strong>Applied Skills </strong>: 3D Modeling (Solidworks), Coding (MATLAB), Fabrication (3D printing) 
 </div>
 </div>

@@ -70,6 +70,7 @@ Body-powered prosthetic hands often have limited degrees of freedom and are typi
 </div>
 </div>
 <p></p>
+
 # Selected Publications
 <div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="display: flex; align-items: center;">

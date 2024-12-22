@@ -67,8 +67,6 @@ Body-powered prosthetic hands often have limited degrees of freedom and are typi
 <br>
 <strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (MATLAB), Fabrication (3D printing) 
 </div>
-</div>
-
 
 # Selected Publications
 <div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
@@ -102,7 +100,7 @@ Body-powered prosthetic hands often have limited degrees of freedom and are typi
 <div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="height: auto; width: 250px;">
+    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="height: auto; width: 300px;">
   </div>
   <div align="justify">
     <p style="margin: 0; line-height: 1.1;"><strong>When the End Effector Is a Laser: A Review of Robotics in Laser Surgery</strong></p>

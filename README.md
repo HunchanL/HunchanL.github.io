@@ -35,7 +35,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
   </div>
 Lasers have become an essential tool in many surgical applications due to their ability to selectively ablate tissue based on light absorption which varies with laser wavelength. This selectivity can minimize damage to healthy tissue, shorten recovery time, and reduce the risk of postoperative complications. To further enhance laser surgery techniques, robotic technology can improve the precision of laser targeting by enabling automatic closed-loop control. Among the robotic technologies applicable to these medical procedures, soft robotics stands out for its inherent compliance, flexibility, and robustness, making it ideal for delicate surgical environments. However, while soft robots excel in adaptability, they often face limitations in controllability and precision. <strong> My research focuses on developing a laser-steering robot built upon a soft-rigid hybrid concept to address this. By merging the safety and adaptability of soft robotic technology with the structural stability and programmable precision of rigid components, this approach can enhance control, accuracy, and precision in laser-assisted surgeries. </strong> <br>
 <br>
-<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (Python, MATLAB, ROS), Machine Learning (Tensorflow), Fabrication (laser microprocessing, plasma etching) 
+<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (Python, MATLAB, ROS2), Machine Learning (Tensorflow), Fabrication (laser microprocessing, plasma etching) 
 </div>
 </div>
 <p></p>
@@ -77,7 +77,10 @@ Body-powered prosthetic hands often have limited degrees of freedom and are typi
   <div align="justify">
     <p style="margin: 0; line-height: 1.1;"><strong>A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots</strong></p>
     <p style="margin: 0; line-height: 1.3;"><strong>Hun Chan Lee</strong>, Nash Elder, Matthew Leal, Sarah Stantial, Elenis Vergara Martinez, Sneha Jos, Hyunje Cho, Sheila Russo</p>
-    <p style="margin: 0; line-height: 1;"><i>Nature Communications, 2024 | </i><u style="text-decoration: blue underline "><a href="https://www.nature.com/articles/s41467-024-51137-8">[Paper]</a></u>|</i><u style="text-decoration: blue underline "><a href="https://www.liebertpub.com/toc/soro/12/1">[Cover Art]| </i><u style="text-decoration: blue underline "><a href="https://communities.springernature.com/posts/a-fabrication-strategy-for-millimeter-scale-self-sensing-soft-rigid-hybrid-robots">[Behind the Paper]</p>
+    <p style="margin: 0; line-height: 1;"><i>Nature Communications, 2024 | 
+    </i><u style="text-decoration: blue underline "><a href="https://www.nature.com/articles/s41467-024-51137-8">[Paper]</a></u>|
+    </i><u style="text-decoration: blue underline "><a href="https://www.liebertpub.com/toc/soro/12/1">[Cover Art]</a></u>|
+    </i><u style="text-decoration: blue underline "><a href="https://communities.springernature.com/posts/a-fabrication-strategy-for-millimeter-scale-self-sensing-soft-rigid-hybrid-robots">[Behind the Paper]</a></u></p>
     <p></p>
   </div>
 </div>

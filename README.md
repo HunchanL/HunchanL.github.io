@@ -35,7 +35,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
   </div>
 Lasers have become an essential tool in many surgical applications due to their ability to selectively ablate tissue based on light absorption which varies with laser wavelength. This selectivity can minimize damage to healthy tissue, shorten recovery time, and reduce the risk of postoperative complications. To further enhance laser surgery techniques, robotic technology can improve the precision of laser targeting by enabling automatic closed-loop control. Among the robotic technologies applicable to these medical procedures, soft robotics stands out for its inherent compliance, flexibility, and robustness, making it ideal for delicate surgical environments. However, while soft robots excel in adaptability, they often face limitations in controllability and precision. <strong> My research focuses on developing a laser-steering robot built upon a soft-rigid hybrid concept to address this. By merging the safety and adaptability of soft robotic technology with the structural stability and programmable precision of rigid components, this approach can enhance control, accuracy, and precision in laser-assisted surgeries. </strong> <br>
 <br>
-<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (Python, MATLAB, ROS2), Machine Learning (Tensorflow), Fabrication (laser microprocessing, plasma etching) 
+<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (Python, MATLAB, ROS2), Machine Learning (Tensorflow), Fabrication (laser microprocessing, layer-by-layer fabrication, plasma etching) 
 </div>
 </div>
 <p></p>
@@ -50,7 +50,7 @@ Lasers have become an essential tool in many surgical applications due to their 
 Imaging systems serve as the eyes of surgeons during minimally invasive surgeries, providing real-time visuals to guide precise interventions. However, these systems often fall short in delivering comprehensive information, leaving surgeons with critical unknowns. To address these limitations, <strong> my previous research focused on augmenting the information available during surgeries by leveraging NIR lasers and NIR imaging systems to provide insights beyond conventional imaging </strong>. A key outcome of this work was the development of two advanced imaging systems: <strong>a laser speckle contrast imaging system and a fluorescent laparoscopy system </strong>. The laser speckle contrast imaging system is a dye-free, real-time blood flow imager that uses laser speckles to visualize tissue perfusion and vascular structures. The fluorescent laparoscopy system combines white light and near-infrared (NIR) imaging cameras to highlight lymph nodes, vessels, and other critical anatomical features. Together, these systems aim to provide surgeons with context-rich visualization—acting as a form of visual guidance akin to the overlays in backup cameras for cars, allowing for greater precision and confidence during minimally invasive surgeries.<br>
 <div align="justify">
 <br>
-<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (Python, OpenCV), Machine Learning (PyTorch - YOLO v5), Fabrication (3D printing, Molding) 
+<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (Python, OpenCV), Machine Learning (PyTorch - YOLO v5), Fabrication (3D printing) 
 </div>
 </div>
 <p></p>
@@ -65,7 +65,7 @@ Imaging systems serve as the eyes of surgeons during minimally invasive surgerie
 
 Body-powered prosthetic hands often have limited degrees of freedom and are typically constructed from rigid materials, making everyday object-grasping tasks challenging. Additionally, users often need to maintain awkward body positions to sustain a grasp. To address these limitations, <strong> my research focused on developing rigid-flexible fingers that provide the necessary compliance for grasping various objects and designing an innovative locking mechanism to secure finger positions without requiring uncomfortable postures. Furthermore, the project aimed to create an affordable prosthetic hand by leveraging cost-effective 3D printing technology.</strong><br>
 <br>
-<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (MATLAB), Fabrication (3D printing) 
+<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (MATLAB), Fabrication (3D printing, Molding) 
 </div>
 
 # Selected Publications

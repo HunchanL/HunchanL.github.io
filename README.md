@@ -77,10 +77,10 @@ Body-powered prosthetic hands often have limited degrees of freedom and are typi
   <div align="justify">
     <p style="margin: 0; line-height: 1.1;"><strong>A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots</strong></p>
     <p style="margin: 0; line-height: 1.3;"><strong>Hun Chan Lee</strong>, Nash Elder, Matthew Leal, Sarah Stantial, Elenis Vergara Martinez, Sneha Jos, Hyunje Cho, Sheila Russo</p>
-    <p style="margin: 0; line-height: 1;"><i>Nature Communications, 2024 | 
-    </i><u style="text-decoration: blue underline "><a href="https://www.nature.com/articles/s41467-024-51137-8">[Paper]</a></u> |
-    </i><u style="text-decoration: blue underline "><a href="https://www.liebertpub.com/toc/soro/12/1">[Cover Art]</a></u> |
-    </i><u style="text-decoration: blue underline "><a href="https://communities.springernature.com/posts/a-fabrication-strategy-for-millimeter-scale-self-sensing-soft-rigid-hybrid-robots">[Behind the Paper]</a></u></p>
+    <p style="margin: 0; line-height: 1;"><i>Nature Communications</i>, 2024 | 
+    <u style="text-decoration: blue underline "><a href="https://www.nature.com/articles/s41467-024-51137-8">[Paper]</a></u> |
+    <u style="text-decoration: blue underline "><a href="https://www.liebertpub.com/toc/soro/12/1">[Cover Art]</a></u> |
+    <u style="text-decoration: blue underline "><a href="https://communities.springernature.com/posts/a-fabrication-strategy-for-millimeter-scale-self-sensing-soft-rigid-hybrid-robots">[Behind the Paper]</a></u></p>
     <p></p>
   </div>
 </div>

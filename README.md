@@ -35,7 +35,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
   </div>
 Lasers have become an essential tool in many surgical applications due to their ability to selectively ablate tissue based on light absorption which varies with laser wavelength. This selectivity can minimize damage to healthy tissue, shorten recovery time, and reduce the risk of postoperative complications. To further enhance laser surgery techniques, robotic technology can improve the precision of laser targeting by enabling automatic closed-loop control. Among the robotic technologies applicable to these medical procedures, soft robotics stands out for its inherent compliance, flexibility, and robustness, making it ideal for delicate surgical environments. However, while soft robots excel in adaptability, they often face limitations in controllability and precision. <strong> My research focuses on developing a laser-steering robot built upon a soft-rigid hybrid concept to address this. By merging the safety and adaptability of soft robotic technology with the structural stability and programmable precision of rigid components, this approach can enhance control, accuracy, and precision in laser-assisted surgeries. </strong> <br>
 <br>
-<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (Python, MATLAB, ROS2), Machine Learning (Tensorflow), Fabrication (laser microprocessing, layer-by-layer fabrication, plasma etching) 
+<strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (Python, MATLAB, ROS2), Machine Learning (PyTorch), Fabrication (laser microprocessing, layer-by-layer fabrication, plasma etching) 
 </div>
 </div>
 <p></p>

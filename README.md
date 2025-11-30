@@ -77,7 +77,7 @@ Body-powered prosthetic hands often have limited degrees of freedom and are typi
   </div>
   <div align="justify">
     <p style="margin: 0; line-height: 1.1;"><strong>Model-Free Control of a Soft-Rigid Hybrid Robot for Laser-Assisted Surgery</strong></p>
-    <p style="margin: 0; line-height: 1.3;"><strong>Hun Chan Lee</strong>, Hyunje Cho, Avantika Kothandaraman, Devin Dembrow, Jinkyu Kwon,, Sheila Russo</p>
+    <p style="margin: 0; line-height: 1.3;"><strong>Hun Chan Lee</strong>, Hyunje Cho, Avantika Kothandaraman, Devin Dembrow, Jinkyu Kwon, Sheila Russo</p>
     <p style="margin: 0; line-height: 1;"><i>IEEE Robotics and Automation Letters, 2025 | </i><u style="text-decoration: blue underline "><a href="https://ieeexplore.ieee.org/document/11264286">[Paper]</a></u></p>
     <p></p>
   </div>

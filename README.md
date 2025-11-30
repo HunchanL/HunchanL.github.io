@@ -29,10 +29,11 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 <div style="text-align: justify; font-family: Arial, sans-serif; font-size: 20px;">
   <p><strong>Laser-assisted Surgery Robots</strong></p>
 </div>
-<div align="justify">
-  <div style="margin: 0 auto; text-align: center; width: fit-content;">
-    <img src="/images/AIS_laser_review.jpg" alt="When the End Effector Is a Laser: A Review of Robotics in Laser Surgery" style="width: 30%; height: auto;">
-  </div>
+<div align="justify" >
+  <video controls width="640" height="360" style="display: block; margin: 0 auto;">
+    <source src="/videos/IEEE RAL_promo_low.mp4" type="video/mp4">
+  </video>
+  <p></p>
 Lasers have become an essential tool in many surgical applications due to their ability to selectively ablate tissue based on light absorption which varies with laser wavelength. This selectivity can minimize damage to healthy tissue, shorten recovery time, and reduce the risk of postoperative complications. To further enhance laser surgery techniques, robotic technology can improve the precision of laser targeting by enabling automatic closed-loop control. Among the robotic technologies applicable to these medical procedures, soft robotics stands out for its inherent compliance, flexibility, and robustness, making it ideal for delicate surgical environments. However, while soft robots excel in adaptability, they often face limitations in controllability and precision. <strong> My research focuses on developing a laser-steering robot built upon a soft-rigid hybrid concept to address this. By merging the safety and adaptability of soft robotic technology with the structural stability and programmable precision of rigid components, this approach can enhance control, accuracy, and precision in laser-assisted surgeries. </strong> <br>
 <br>
 <strong>Applied Skills </strong>: 3D Modeling (Solidworks), Programming (Python, MATLAB, ROS2), Machine Learning (PyTorch), Fabrication (laser microprocessing, layer-by-layer fabrication, plasma etching) 
@@ -69,6 +70,21 @@ Body-powered prosthetic hands often have limited degrees of freedom and are typi
 </div>
 
 # Selected Publications
+<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
+<div style="display: flex; align-items: center;">
+  <div style="margin-right: 10px;">
+    <img src="/images/IEEE_RAL.png" alt="Model-Free Control of a Soft-Rigid Hybrid Robot for Laser-Assisted Surgery" style="height: auto; width: 400px;">
+  </div>
+  <div align="justify">
+    <p style="margin: 0; line-height: 1.1;"><strong>Model-Free Control of a Soft-Rigid Hybrid Robot for Laser-Assisted Surgery</strong></p>
+    <p style="margin: 0; line-height: 1.3;"><strong>Hun Chan Lee</strong>, Hyunje Cho, Avantika Kothandaraman, Devin Dembrow, Jinkyu Kwon,, Sheila Russo</p>
+    <p style="margin: 0; line-height: 1;"><i>IEEE Robotics and Automation Letters, 2025</i> | 
+    <u style="text-decoration: blue underline "><a href="https://ieeexplore.ieee.org/document/11264286/authors#authors">[Paper]</a></u>
+    <p></p>
+  </div>
+</div>
+</div>
+
 <div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">

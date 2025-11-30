@@ -29,6 +29,7 @@ Unlike rigid robots, soft robots provide increased dexterity, flexibility, and r
 <div style="text-align: justify; font-family: Arial, sans-serif; font-size: 20px;">
   <p><strong>Laser-assisted Surgery Robots</strong></p>
 </div>
+  
 <div align="justify" >
   <video controls width="640" height="360" style="display: block; margin: 0 auto;">
     <source src="/videos/IEEE RAL_promo_low.mp4" type="video/mp4">

@@ -73,21 +73,6 @@ Body-powered prosthetic hands often have limited degrees of freedom and are typi
 <div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
 <div style="display: flex; align-items: center;">
   <div style="margin-right: 10px;">
-    <img src="/images/IEEE_RAL.png" alt="Model-Free Control of a Soft-Rigid Hybrid Robot for Laser-Assisted Surgery" style="height: auto; width: 400px;">
-  </div>
-  <div align="justify">
-    <p style="margin: 0; line-height: 1.1;"><strong>Model-Free Control of a Soft-Rigid Hybrid Robot for Laser-Assisted Surgery</strong></p>
-    <p style="margin: 0; line-height: 1.3;"><strong>Hun Chan Lee</strong>, Hyunje Cho, Avantika Kothandaraman, Devin Dembrow, Jinkyu Kwon,, Sheila Russo</p>
-    <p style="margin: 0; line-height: 1;"><i>IEEE Robotics and Automation Letters, 2025</i> | 
-    <u style="text-decoration: blue underline "><a href="https://ieeexplore.ieee.org/document/11264286/authors#authors">[Paper]</a></u>
-    <p></p>
-  </div>
-</div>
-</div>
-
-<div class="wrapper" style="max-width: 1000px; margin: 0 auto; padding: 10px;">
-<div style="display: flex; align-items: center;">
-  <div style="margin-right: 10px;">
     <img src="/images/nature_communications.jpg" alt="A fabrication strategy for millimeter-scale, self-sensing soft-rigid hybrid robots" style="height: auto; width: 400px;">
   </div>
   <div align="justify">
